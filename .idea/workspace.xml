@@ -4,13 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca2c8a-5877-4895-b04a-4624bacc6d80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars.iml" afterDir="false" />
+    <list default="true" id="faca2c8a-5877-4895-b04a-4624bacc6d80" name="Changes" comment="Facebook style &quot;Likes&quot; System">
+      <change afterPath="$PROJECT_DIR$/src/BraceChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindOutlier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PigLatin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SqInRect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TimeFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Likes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Likes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +40,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GYpE3pE6X5qxCzr2NzPfatjLSG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,9 +50,58 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/anier/IdeaProjects/Codewars",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.PigLatin">
+    <configuration name="FindOutlier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindOutlier" />
+      <module name="Codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PigLatin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PigLatin" />
+      <module name="Codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Square" />
+      <module name="Codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeFormatter" />
+      <module name="Codewars" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PigLatin" />
+        <item itemvalue="Application.TimeFormatter" />
+        <item itemvalue="Application.Square" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.FindOutlier" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,6 +111,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666575257380</updated>
     </task>
+    <task id="LOCAL-00001" summary="Facebook style &quot;Likes&quot; System">
+      <created>1666630615404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666630615404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,5 +131,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Facebook style &quot;Likes&quot; System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Facebook style &quot;Likes&quot; System" />
   </component>
 </project>

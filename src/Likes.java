@@ -14,7 +14,10 @@ Note: For 4 or more names, the number in "and 2 others" simply increases.
 class Likes {
         public static void whoLikesIt(String... names) {
                 //Do your magic here
+           // initiate counter to hold number of likes
                 int count = names.length;
+
+           // check length of array and take action based on length
                if (names.length == 0){
                        System.out.println("no one likes this");
                }
@@ -27,14 +30,16 @@ class Likes {
                 if (names.length == 3){
                         System.out.println(names[0] + ", " + names[1] + " and " + names[2] + " like this");
                 }
+            //if length is greater than 3 use "count" mechanism
                 if (names.length > 3){
                         System.out.println(names[0] + ", " + names[1] + " and " + (count - 2) + " others like this");
                 }
 
         }
 
+        // Run program in main
         public static void main(String[] args) {
-                whoLikesIt();
+                whoLikesIt("Jason");
         }
 
 }
