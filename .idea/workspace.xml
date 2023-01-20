@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faca2c8a-5877-4895-b04a-4624bacc6d80" name="Changes" comment="Facebook style &quot;Likes&quot; System">
-      <change afterPath="$PROJECT_DIR$/src/BraceChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BuyCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreateNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindOutlier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NaturalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PigLatin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Snail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SqInRect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TimeFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Likes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Likes.java" afterDir="false" />
-    </list>
+    <list default="true" id="faca2c8a-5877-4895-b04a-4624bacc6d80" name="Changes" comment="Facebook style &quot;Likes&quot; System" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,15 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/anier/IdeaProjects/Codewars",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.general"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/anier/IdeaProjects/Codewars&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.PigLatin">
     <configuration name="FindOutlier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindOutlier" />
@@ -126,7 +110,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
